@@ -1,7 +1,11 @@
-
-
-
 # 5 Stretches That Instantly "UNDO" Sitting
+
+## Table of Contents
+1. [Elbow Up Stretch](#1-elbow-up-stretch)
+2. [Modified Pretzel Stretch](#2-modified-pretzel-stretch)
+3. [Wall Slide](#3-wall-slide)
+4. [Glute Activation with Hamstring Stretch](#4-glute-activation-with-hamstring-stretch)
+5. [Hip Flexor Stretch](#5-hip-flexor-stretch)
 
 ## 1. Elbow Up Stretch
 
@@ -28,5 +32,4 @@
 - **Timestamp**: [6:00](https://youtu.be/U5VtjFywhIA?t=360s)
 - **Description**: Stand against a wall, drop one leg back to stretch the hip flexor, and raise the arm on the same side.
 
-For the full video, you can refer to the link [here]([5 Stretches That Instantly "UNDO" Sitting (FEEL AMAZING!) - YouTube](https://www.youtube.com/watch?v=U5VtjFywhIA)).
-
+For the full video, you can refer to the link [here](https://www.youtube.com/watch?v=U5VtjFywhIA).
