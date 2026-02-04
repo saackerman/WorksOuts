@@ -1,22 +1,43 @@
-PART 1 – TABATA
-Push-ups (any variation)
-One-arm KB rows (switch sides each round)
-20 sec on / 10 sec off x 4 rounds alternating, rest 1–2 min, repeat twice
-Recommended weights: 12–16k (women), 20–24k (men)
+## TABATA KB Workout Plan
 
-PART 2 – TABATA
-One-arm KB swings (switch arms each round)
-Fast feet
-Same format as above
-Recommended weights: 16–20k (women), 24–32k (men)
+### Part 1: TABATA
+- **Exercises:**
+  - Push-ups (any variation)
+  - One-arm KB rows (alternate sides each round)
+- **Format:**
+  - 20 sec on / 10 sec off × 4 rounds alternating
+  - Rest 1–2 minutes
+  - Repeat twice
+- **Recommended Weights:**
+  - Women: 12–16 kg
+  - Men: 20–24 kg
 
-PART 3 – COMPLEX
-4 rounds for time:
-6 KB press (right)
-6 KB rack squat (right)
-6 KB reverse rack lunge (right)
-Repeat on the left
-Finish with 6 burpees
+---
 
-# source
-https://kettlebellbasics.net/2025/07/17/free-28-day-kb-tabata-challenge-sample-workout/
+### Part 2: TABATA
+- **Exercises:**
+  - One-arm KB swings (alternate arms each round)
+  - Fast feet
+- **Format:**
+  - 20 sec on / 10 sec off × 4 rounds alternating
+  - Rest 1–2 minutes
+  - Repeat twice
+- **Recommended Weights:**
+  - Women: 16–20 kg
+  - Men: 24–32 kg
+
+---
+
+### Part 3: KB Complex
+- **Instructions:**
+  - Complete 4 rounds for time of the following:
+    1. 6 KB presses (right side)
+    2. 6 KB rack squats (right side)
+    3. 6 KB reverse rack lunges (right side)
+    4. Repeat steps 1–3 on the left side
+    5. Finish each round with 6 burpees
+
+---
+
+### Source
+- [Kettlebell Basics: Free 28-Day KB TABATA Challenge Sample Workout](https://kettlebellbasics.net/2025/07/17/free-28-day-kb-tabata-challenge-sample-workout/)
