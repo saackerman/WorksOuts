@@ -1,23 +1,34 @@
-23 Min Strength Interval KB Workout for Over 50s
+# 23-Minute Strength Interval Kettlebell Workout for Over 50s
 
-PART 1 – Set a timer for 1 minute. At the start of each minute, do the set number of reps. Rest for the rest of the minute. Do this 3 times:
+This 23-minute workout is designed to build strength, improve mobility, and boost cardiovascular endurance for individuals over 50. Grab your kettlebells and get started!
 
-— Single / Double KB Press x 8
+---
 
-— Single / Double KB Front Squat x 8
+## PART 1 – Every Minute on the Minute (EMOM)
+1. **Set a timer for 1 minute**. 
+2. **At the start of each minute**, perform the specified number of reps for each exercise.
+3. **Rest for the remainder of the minute**.
+4. **Complete 3 rounds in total**.
 
-— Horn grab / Double KB Clean x 10
+### Exercises:
+- **Single/Double Kettlebell (KB) Press**: 8 reps
+- **Single/Double Kettlebell Front Squat**: 8 reps
+- **Horn Grab/Double Kettlebell Clean**: 10 reps
+- **Single Arm Kettlebell Row**: 12 reps per side
+- **Total Body Extension**: 20 reps
 
-— Single Arm KB Row x 12 per side
+---
 
-— Total Body Extension x 20
+## PART 2 – 8-Minute AMRAP (As Many Rounds As Possible)
+1. Set a timer for 8 minutes. 
+2. Perform as many rounds as possible of the following exercises.
 
-PART 2 – Do as many rounds as you can of these exercises in 8 minutes:
+### Exercises:
+- **Friendly Burpee**: 5 reps
+- **Bodyweight/Kettlebell Walking Lunge with Balance**: 8 reps per leg
+- **Plank**: 30-second hold
+- **Skater Hops**: 10 reps per side
 
-— Friendly Burpee – 5
+---
 
-— Bodyweight / KB Walking Lunge w/ Balance – 8 per leg
-
-— Plank – :30 hold
-
-— Skater hops – 10 per side
+**Source**: [Kettlebell Basics](https://kettlebellbasics.net/2026/01/19/23-min-strength-interval-kb-workout-for-over-50s/)
